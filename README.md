@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Grupo Buscalia - Angular
 - 🌱 I’m currently learning ReacJs
-- 👯 I love play Futbol
+- ⚽ I love play Futbol
 - 😄 Pronouns: Jeff/ JeffVilla / Villa 
 - ⚡ Fun fact: Nothing now
 <!--
