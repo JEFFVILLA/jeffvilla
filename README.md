@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Grupo Buscalia - Angular
+- 🌱 I’m currently learning ReacJs
+- 👯 I love play Futbol
+- 😄 Pronouns: Jeff/ JeffVilla / Villa 
+- ⚡ Fun fact: Nothing now
 <!--
 **JEFFVILLA/jeffvilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
