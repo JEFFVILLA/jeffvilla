@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Grupo Buscalia - Angular
+- 🔭 I’m currently working on SesameHr - VueJs
 - 🌱 I’m currently learning ReacJs
 - ⚽ I love play Futbol
 - 😄 Pronouns: Jeff/ JeffVilla / Villa 
